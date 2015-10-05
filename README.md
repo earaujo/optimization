@@ -6,4 +6,4 @@
 
 Please refer to the included LICENSE file for terms of use.
 
-Apache License, Version 2.0. Copyright 2011-2014 &copy; Ewerton Assis.
+Apache License, Version 2.0. Copyright 2011-2015 &copy; Ewerton Assis.
